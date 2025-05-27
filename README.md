@@ -38,7 +38,7 @@ El código se encuentra implementado con Java 1.8 y Gradle 6.8.3 usando las sigu
 ---
 
 ## Desarrollo
-1. Abrir este readme: [Readme.md] (https://github.com/JonEchev/library-db-memory-api/blob/main/README.md)
+1. Abrir este readme: [Readme.md](https://github.com/JonEchev/library-db-memory-api/blob/main/README.md)
 2. Instale Java 1.8 y un IDE de desarrollo como IntelliJ.
 3. Clone este repositorio desde GitHub: https://github.com/JonEchev/library-db-memory-api rama: main.
 4. Permita la construcción del proyecto con gradle.
