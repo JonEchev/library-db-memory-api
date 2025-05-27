@@ -1,6 +1,6 @@
 # library-db-memory-api
 
-API para la gestión de prestamos en una biblioteca con base de datos H2 (en memoria) para Ceiba.
+API para la gestión de prestamos en una biblioteca con base de datos H2 (en memoria) y arquitectura Hexagonal para Ceiba.
 
 > <p>#jpa #java #spring-boot #h2</p>
 
@@ -19,7 +19,7 @@ API para la gestión de prestamos en una biblioteca con base de datos H2 (en mem
 
 ## Descripción
 
-API que permite la gestión de prestamos en una biblioteca con una base de datos H2 en memoria (temporal) para la empresa Ceiba.
+API que permite la gestión de prestamos en una biblioteca con una base de datos H2 en memoria (temporal) y arquitectura Hexagonal para la empresa Ceiba.
 
 - En este readme se encuentra el requerimiento completo que se desarrollo para está API.
 
