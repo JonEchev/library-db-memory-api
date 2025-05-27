@@ -38,9 +38,9 @@ El código se encuentra implementado con Java 1.8 y Gradle 6.8.3 usando las sigu
 ---
 
 ## Desarrollo
-1. Abrir el readme: [Instrucciones_Instalacion_Ejecucion_ShoppingCart_Indra.pdf](https://github.com/JonEchev/shopping-cart-api/blob/main/deliverables/Instrucciones_Instalacion_Ejecucion_ShoppingCart_Indra.pdf)
+1. Abrir este readme: [Readme.md] (https://github.com/JonEchev/library-db-memory-api/blob/main/README.md)
 2. Instale Java 1.8 y un IDE de desarrollo como IntelliJ.
-3. Clone este repositorio desde GitHub: https://github.com/JonEchev/shopping-cart-api rama: main.
+3. Clone este repositorio desde GitHub: https://github.com/JonEchev/library-db-memory-api rama: main.
 4. Permita la construcción del proyecto con gradle.
 5. Inicialice el proyecto, ejecutando la clase: BibliotecaApplication.java
 6. La documentación Swagger del backend se encuentra en la siguiente ruta: http://localhost:80/shopping/swagger-ui/index.html
